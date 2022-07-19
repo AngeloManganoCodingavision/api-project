@@ -1,6 +1,7 @@
 {
   "name": "api-project",
   "scripts": {
+    "format": "prettier",
     "test": "jest"
   },
   "repository": {
@@ -15,6 +16,7 @@
   },
   "homepage": "https://github.com/AngeloManganoCodingavision/api-project#readme",
   "devDependencies": {
-    "jest": "^28.1.3"
+    "jest": "^28.1.3",
+    "prettier": "2.7.1"
   }
 }
