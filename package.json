@@ -1,7 +1,7 @@
 {
   "name": "api-project",
   "scripts": {
-    "format": "prettier",
+    "format": "prettier --write .",
     "test": "jest"
   },
   "repository": {
